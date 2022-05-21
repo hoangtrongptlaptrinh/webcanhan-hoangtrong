@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+}
+.header {
+    display: flex;
+    height: 450px;
+    background-color:#87CEFA; 
+    
+  }
+  .logo{
+    width: 524px;
+    height: 733px;
+    padding-top: 37px;
+   
+  }
+  .ten{
+      color: #fff;
+      font-size: 70px;
+      padding-left: 79px;
+      padding-top: 75px;
+
+  }
+  .pt{
+      color: #fff;
+      font-size: 30px;
+      padding-left: 79px;
+  }
